@@ -2,16 +2,11 @@
  <br>
 <img src="https://user-images.githubusercontent.com/78733248/212997444-e311a1e9-cfae-4217-8118-ac23512723a9.jpg" width="200"></a>
   <br>
-  NGL Spammer
+  NGL Spammer PL
 </h1>
-<h4 align="center">Flooding NGL accounts with questions</h4>
+<h4 align="center">Flooding NGL accounts with questions / przetłumaczone na polski (KOD NIE MÓJ)</h4>
 <p align="center">
 <p align="center">
-  --> <a href="#how-it-works">How it works</a> ·
-  <a href="#how-to-use">How To Use / Download</a> ·
-  <a href="#replit">Replit</a>·
-  <a href="#examples">Examples</a>·
-    <a href="#support-me">Support me!</a> <--
 </p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/78733248/213006672-89089652-3251-4fd1-9bb2-e3d3507903c7.gif" width=200><br><br><br></p></img>
