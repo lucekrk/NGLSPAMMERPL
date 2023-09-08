@@ -95,6 +95,3 @@ stolen something
 cheated on taxes
 used drugs
 ```
-## Support me!
-
-<a href="https://www.buymeacoffee.com/bence912" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee">
